@@ -59,36 +59,38 @@
         <li>列表项目三</li>
       </ul>
       <h2>图片</h2>
-    <p><span>好看的图片</span></br>
-    <img src="http://static.meiguoshenpo.com/image/201306/13114706781.jpg" alt="宝宝" width="320px"></img>
-    </p> 
-    <p><span>好看的图片</span></br>
-    <img src="http://static.meiguoshenpo.com/image/201306/13114706781.jpg" alt="宝宝" width="320px"></img>
-    </p> 
-    <p><span>好看的图片</span></br>
-    <img src="http://static.meiguoshenpo.com/image/201306/13114706781.jpg" alt="宝宝" width="320px"></img>
-    </p> 
-    <p><span>好看的图片</span></br>
-    <img src="http://static.meiguoshenpo.com/image/201306/13114706781.jpg" alt="宝宝" width="320px"></img>
-    </p> 
-    <p><span>好看的图片</span></br>
-    <img src="http://static.meiguoshenpo.com/image/201306/13114706781.jpg" alt="宝宝" width="320px"></img>
-    </p> 
-    <p><span>好看的图片</span></br>
-    <img src="http://static.meiguoshenpo.com/image/201306/13114706781.jpg" alt="宝宝" width="320px"></img>
-    </p> 
-    <p><span>好看的图片</span></br>
-    <img src="http://static.meiguoshenpo.com/image/201306/13114706781.jpg" alt="宝宝" width="320px"></img>
-    </p> 
-    <p><span>好看的图片</span></br>
-    <img src="http://static.meiguoshenpo.com/image/201306/13114706781.jpg" alt="宝宝" width="320px"></img>
-    </p> 
-    <p><span>好看的图片</span></br>
-    <img src="http://static.meiguoshenpo.com/image/201306/13114706781.jpg" alt="宝宝" width="320px"></img>
-    </p> 
-    <p><span>好看的图片</span></br>
-    <img src="http://static.meiguoshenpo.com/image/201306/13114706781.jpg" alt="宝宝" width="320px"></img>
-    </p> 
+    <ul style="list-style-type:none;">
+      <li><p><span>好看的图片</span></br>
+      <img src="http://static.meiguoshenpo.com/image/201306/13114706781.jpg" alt="宝宝" width="320px"></img>
+      </p> </li>
+      <li><p><span>好看的图片</span></br>
+      <img src="http://static.meiguoshenpo.com/image/201306/13114706781.jpg" alt="宝宝" width="320px"></img>
+      </p></li> 
+      <li><p><span>好看的图片</span></br>
+      <img src="http://static.meiguoshenpo.com/image/201306/13114706781.jpg" alt="宝宝" width="320px"></img>
+      </p> </li>
+      <li><p><span>好看的图片</span></br>
+      <img src="http://static.meiguoshenpo.com/image/201306/13114706781.jpg" alt="宝宝" width="320px"></img>
+      </p> </li>
+      <li><p><span>好看的图片</span></br>
+      <img src="http://static.meiguoshenpo.com/image/201306/13114706781.jpg" alt="宝宝" width="320px"></img>
+      </p> </li>
+      <li><p><span>好看的图片</span></br>
+      <img src="http://static.meiguoshenpo.com/image/201306/13114706781.jpg" alt="宝宝" width="320px"></img>
+      </p> </li>
+      <li><p><span>好看的图片</span></br>
+      <img src="http://static.meiguoshenpo.com/image/201306/13114706781.jpg" alt="宝宝" width="320px"></img>
+      </p> </li>
+      <li><p><span>好看的图片</span></br>
+      <img src="http://static.meiguoshenpo.com/image/201306/13114706781.jpg" alt="宝宝" width="320px"></img>
+      </p> </li>
+      <li><p><span>好看的图片</span></br>
+      <img src="http://static.meiguoshenpo.com/image/201306/13114706781.jpg" alt="宝宝" width="320px"></img>
+      </p> </li>
+      <li><p><span>好看的图片</span></br>
+      <img src="http://static.meiguoshenpo.com/image/201306/13114706781.jpg" alt="宝宝" width="320px"></img>
+      </p> </li>
+    </ul>
   </article>
 
     <h1>最后一篇文章一级标题</h1>
