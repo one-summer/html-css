@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![Image](https://github.com/one-summer/html-css/tree/master/ife/images/logo_01.png)
+![Image](https://github.com/one-summer/html-css/raw/master/ife/images/logo_01.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
